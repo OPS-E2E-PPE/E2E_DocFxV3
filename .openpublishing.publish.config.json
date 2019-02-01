@@ -2,9 +2,9 @@
   "need_generate_pdf": true,
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_DocFxV3",
+      "docset_name": "docfxv3-pr",
       "build_source_folder": "E2E_DocsBranch_Dynamic",
-      "build_output_subfolder": "E2E_DocFxV3",
+      "build_output_subfolder": "docfxv3-pr",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
