@@ -30,6 +30,11 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "test",
+      "url": "https://github.com/OPS-E2E-PPE/E2E_RepoConifg_Docfxv3",
+      "branch": "crr-pullrequest"
     }
   ],
   "branch_target_mapping": {},
