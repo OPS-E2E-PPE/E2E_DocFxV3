@@ -1,3 +1,3 @@
 # [Invalid](invalid.md)
-## [Test](index.md)
+## [IndexTesting](index.md)
 
