@@ -1,9 +1,21 @@
----
-author: luyajun0205
-title: e2etest
----
+# Test Accounts Description
 
-# Welcome to E2E_DocsBranch_Dynamic docFxv3!
+Here're the the descriptions of E2E testing accounts:
 
-image case ![A fallback image](windows.jpg) 
-see "how token works" in [!INCLUDE[token](token.md)]
+
+| Logo        | Account      | Description |
+| ----------- | :----------- | :---------- |
+| service account | opstest2@microsoft.com | <ul><li>Web Page:<br>- Login https://docsmetadatatooldev.azurewebsites.net/allowlists page to do the testing for Doc Validation management UI.</li><li>Call OPS Build API:<br>- Trigger publish build/pdf build/pull request to get build result on repository  https://github.com/MicrosoftDocs/learn-bizapps-sandbox for performance testing</li><li>Call GitHub API:<br>- Create branch/update file/create pull request on repository https://github.com/MicrosoftDocs/learn-bizapps-sandbox for performance testing.</li><li>Call Azure DevOps Services REST API:<br>- Get repository information/delete repository/update file/push changes from the repository under https://mseng.visualstudio.com for E2E testing. For example, a case update a file and push changes on the [test repository](https://mseng.visualstudio.com/VSChina/_git/E2E_DocFxV3_VSTS) to check the build result.<br>	- Get test results for test runs under https://dev.azure.com/ceapex/ for E2E testing improvement. For example, a case get all failed test cases from several test runs and send them to our team through email.</li></ul> |
+| service account | opse2epr@microsoft.com | <ul><li>Web Page:<br>- Login https://ppe.docs.microsoft.com/ and https://review.docs.microsoft.com/ to check the published page for E2E testing.</li><li>Call GitHub API:<br>- Update collaborator permission: Push/Admin(for opse2esa). Example for CLA Testing: CLA means Branch Protection Rule. Using opse2epr to update collaborator permission: Write(for opse2esa) under source repo, update target branch file, the PR cannot pass the CLA check, the sync job will be failed and leave a PR in there.<br>- Fork the private repository in PPE environment. Especially for docfxv3 migration testing.</li></ul> |
+| service account | opse2ep1@microsoft.com | <ul><li>Fork the private repository in PROD environment. Especially for docfxv3 migration testing.</li></ul>|
+| service account | opse2ep2@microsoft.com | <ul><li>A backup account to fork the private repository in PPE environment. Especially for docfxv3 migration testing.</li></ul>|
+| service account | opse2esa@microsoft.com | <ul><li>Call OPS Build API:<br>- Trigger build/pull request to get build result on repository https://github.com/microsoft/templates.docs.msft and https://github.com/MicrosoftDocs/learn-test-sandbox</li><li>Call GitHub API:<br>- Update the latest package version for the [test branch](https://github.com/microsoft/templates.docs.msft/tree/service-package-compatible-test) in repository https://github.com/microsoft/templates.docs.msft to test the service package compatible.<br>- Fork repository/create branch/update file/push changes/create pull request on repository. https://github.com/MicrosoftDocs/learn-test-sandbox for Triple Crown E2E testing.<br>- 	Update collaborator permission: Push/Pull(for opse2epr or opstest2).  For example, build and PR validation when service account1 has Write/Read permission, service account2 has Write permission, fallback account has Admin permission to check the build/pull request result.<br>- 	Add branch protection rules.</li></ul> |
+| service account | e2ebd1@microsoft.com<br>e2ebd2@microsoft.com<br>e2ebd3@microsoft.com<br>e2ebd4@microsoft.com | <ul><li>Add these service account as the customer service account in **sandbox** portal to avoid OPS rate limit issue.</li></ul> |
+| service account | e2ebd5@microsoft.com<br>e2ebd6@microsoft.com<br>e2ebd7@microsoft.com<br>e2ebd8@microsoft.com | <ul><li>Add these service account as the customer service account in **prod** portal to avoid OPS rate limit issue.</li></ul> |
+| test account | opse2etestingppe@outlook.com | <ul><li>Web Page:<br>- Add missing monikers on sandbox portal https://opportal-sandbox.azurewebsites.net/#/monikers</li><li>Call OPS Build API:<br>- Trigger publish build/pdf build/pull request, etc. to get build result on the [test repository](https://github.com/OPS-E2E-PPE/E2E_DocFxV3) in PPE environment for E2E testing.<br>- Add missing monikers in PPE environment.</li></ul> |
+| test account | opstestppe1@outlook.com | <ul><li>Web Page:<br>- Sign in sandbox portal with GitHub account to testing the [sandbox portal](https://opportal-sandbox.azurewebsites.net/#/) UI elements.</li></ul> |
+| test account | opstestppe2@outlook.com | <ul><li>Same with opstestppe1@outlook.com. A backup account to avoid "[Failed login limit](https://developer.github.com/v3/)" issue on GitHub.</li></ul> |
+| test account | OPSE2ETesting@outlook.com | <ul><li>Same with opstestppe1@outlook.com. A backup account to avoid "[Failed login limit](https://developer.github.com/v3/)" issue on GitHub.</li></ul> |
+| test account | opse2etestingproduction@outlook.com | <ul><li>Call OPS Build API:<br>- Trigger publish build/pdf build/pull request, etc. to get build result on the [test repository](https://github.com/OPS-E2E-Prod/E2E_DocsBranch_Prod_Dynamic) in PROD environment for E2E testing.</li></ul> |
+| test account | opstestprod1@outlook.com | <ul><li>Web Page:<br>- Sign in prod portal with GitHub account to testing the [prod portal](https://ops.microsoft.com/) UI elements</li></ul> |
+| test account | Oopstestprod2@outlook.com | <ul><li>Same with opstestprod1@outlook.com. A backup account to avoid "[Failed login limit](https://developer.github.com/v3/)" issue on GitHub.</li></ul> |
