@@ -1,7 +1,12 @@
-# Test Accounts Description
+---
+title: Descriptions of Test Accounts
+description: Type and usage for E2E test accounts
+---
+# Descriptions of Test Accounts
 
-Here're the the descriptions of E2E testing accounts:
+Here're the descriptions of E2E test accounts:
 
+## Accounts Information
 
 | Logo        | Account      | Description |
 | ----------- | :----------- | :---------- |
