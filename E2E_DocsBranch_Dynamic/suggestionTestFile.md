@@ -3,4 +3,5 @@ author: staceyhong
 title: suggestion test v3
 ---
 
-## missing h1 will cause suggestion
+# h1 
+# multiple h1 severity is warning now - 06092020
