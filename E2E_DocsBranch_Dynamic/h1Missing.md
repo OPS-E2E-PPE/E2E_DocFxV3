@@ -1,6 +1,6 @@
 ---
 author: staceyhong
-title: suggestion test
+title: suggestion test v2
 ---
-# multiple h1 report warning not suggestion
-# h1 again 06/09/2020
+
+## missing h1 will cause suggestion
