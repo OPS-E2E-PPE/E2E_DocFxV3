@@ -1,2 +1,5 @@
-- name: index
+- name: Index
   href: index.md
+  items:
+  - name: pageType
+    href: hubPage.md
