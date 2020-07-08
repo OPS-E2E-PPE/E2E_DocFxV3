@@ -6,7 +6,7 @@
   - name: invalidMsSubservice
     href: invalidMsSubservice.md
   - href: invalidMsTechnology
-	  name: invalidMsTechnology.md
+    name: invalidMsTechnology.md
   - name: ms-prod-and-service
     href: ms-prod-and-service.md
   - name: ms-prod-missing
@@ -20,4 +20,4 @@
   - name: notMatchMsServiceSubService
     href: notMatchMsServiceSubService.md
   - href: notMatchProdTech
-	  name: notMatchProdTech.md
+    name: notMatchProdTech.md
