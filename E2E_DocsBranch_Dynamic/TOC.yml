@@ -1,2 +1,5 @@
 - name: Index
   href: index.md
+  items:
+  - name: pageType
+    href: landingPage.md
