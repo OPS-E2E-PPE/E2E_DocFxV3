@@ -1,6 +1,6 @@
 - name: invalidMsProd
   href: invalidMsProd.md
-  items：
+  items:
   - name: invalidMsService
     href: invalidMsService.md
   - name: invalidMsSubservice
