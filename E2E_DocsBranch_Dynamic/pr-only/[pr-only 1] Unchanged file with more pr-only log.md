@@ -1,5 +1,5 @@
 ---
-title: title
+author: e2e test
 ---
 
 [pr-only 1] Unchanged file with more pr-only logs
