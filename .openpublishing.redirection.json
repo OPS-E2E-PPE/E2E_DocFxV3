@@ -1,0 +1,8 @@
+{
+  "redirections":[
+  {
+    "source_path":"E2E_DocsBranch_Dynamic/testsuggestion.md",
+    "redirect_url":"RelativePage"
+  }
+ ]
+}
