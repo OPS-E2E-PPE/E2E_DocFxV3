@@ -14,5 +14,4 @@ description: description
 # heading 1
 ## heading 2
 content
-[!INCLUDE [skip level](./includes/skip-level.md)]
 
