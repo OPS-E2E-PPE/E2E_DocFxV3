@@ -10,7 +10,5 @@ see "how token works" in [!INCLUDE[token](token.md)]
 
 ## mail test
 
-## Invalida link check
--[non exist link1](../nonexisted1.md)
--[non exist link2](../nonexisted2.md)
--[non exist link3](../nonexisted3.md)
+## error
+[!INCLUDE [notes](../notes.md)]
