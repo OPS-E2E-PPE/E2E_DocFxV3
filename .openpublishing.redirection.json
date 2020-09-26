@@ -24,11 +24,5006 @@
       "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj4.md",
       "redirect_url": "/dotnet/core/tools/csproj4",
       "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj5.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj6.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
     },   
     {
-      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj5.md",
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj7.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj8.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj9.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj10.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj11.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj12.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj13.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj14.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj15.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj16.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj17.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj18.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj19.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj20.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj21.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj22.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj23.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj24.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj25.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj26.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj27.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj28.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj29.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj30.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj31.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj32.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj33.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj34.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj35.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj36.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj37.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj38.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj39.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj40.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj41.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj42.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj43.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj44.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj45.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj46.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj47.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj48.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj49.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj50.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj51.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj52.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj53.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj54.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj55.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj56.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj57.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj58.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj59.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj60.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj61.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj62.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj63.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj64.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj65.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj66.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj67.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj68.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj69.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj70.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj71.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj72.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj73.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj74.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj75.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj76.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj77.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj78.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj79.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj80.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj81.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj82.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj83.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj84.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj85.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj86.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj87.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj88.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj89.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj90.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj91.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj92.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj93.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj94.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj95.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj96.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj97.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj98.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj99.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	{
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj100.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj101.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj102.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj103.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj104.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj105.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj106.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj107.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj108.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj109.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj110.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj111.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj112.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj113.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj114.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj115.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj116.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj117.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj118.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj119.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj120.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj121.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj122.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj123.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj124.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj125.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj126.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj127.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj128.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj129.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj130.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj131.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj132.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj133.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj134.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj135.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj136.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj137.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj138.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj139.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj140.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj141.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj142.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj143.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj144.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj145.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj146.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj147.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj148.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj149.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj150.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj151.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj152.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj153.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj154.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj155.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj156.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj157.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj158.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj159.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj160.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj161.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj162.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj163.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj164.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj165.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj166.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj167.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj168.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj169.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj170.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj171.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj172.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj173.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj174.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj175.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj176.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj177.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj178.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj179.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj180.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj181.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj182.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj183.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj184.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj185.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj186.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj187.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj188.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj189.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj190.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj191.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj192.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj193.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj194.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj195.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj196.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj197.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj198.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj199.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj200.md",
       "redirect_url": "/dotnet/core/tools/csproj5",
       "redirect_document_id": true
-    }   
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj1.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj2.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj3.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj4.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj5.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj6.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj7.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj8.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj9.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj10.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj11.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj12.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj13.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj14.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj15.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj16.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj17.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj18.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj19.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj20.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj21.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj22.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj23.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj24.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj25.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj26.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj27.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj28.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj29.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj30.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj31.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj32.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj33.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj34.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj35.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj36.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj37.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj38.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj39.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj40.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj41.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj42.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj43.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj44.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj45.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj46.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj47.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj48.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj49.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj50.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj51.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj52.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj53.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj54.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj55.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj56.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj57.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj58.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj59.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj60.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj61.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj62.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj63.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj64.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj65.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj66.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj67.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj68.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj69.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj70.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj71.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj72.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj73.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj74.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj75.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj76.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj77.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj78.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj79.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj80.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj81.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj82.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj83.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj84.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj85.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj86.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj87.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj88.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj89.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj90.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj91.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj92.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj93.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj94.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj95.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj96.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj97.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj98.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj99.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	{
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj100.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj101.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj102.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj103.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj104.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj105.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj106.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj107.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj108.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj109.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj110.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj111.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj112.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj113.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj114.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj115.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj116.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj117.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj118.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj119.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj120.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj121.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj122.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj123.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj124.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj125.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj126.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj127.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj128.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj129.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj130.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj131.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj132.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj133.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj134.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj135.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj136.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj137.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj138.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj139.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj140.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj141.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj142.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj143.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj144.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj145.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj146.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj147.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj148.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj149.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj150.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj151.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj152.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj153.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj154.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj155.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj156.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj157.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj158.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj159.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj160.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj161.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj162.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj163.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj164.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj165.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj166.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj167.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj168.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj169.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj170.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj171.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj172.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj173.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj174.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj175.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj176.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj177.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj178.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj179.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj180.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj181.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj182.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj183.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj184.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj185.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj186.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj187.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj188.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj189.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj190.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj191.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj192.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj193.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj194.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj195.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj196.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj197.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj198.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj199.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj200.md",
+      "redirect_url": "/dotnet/core/tools/csproj5",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj1.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj2.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj3.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj4.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj5.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj6.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj7.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj8.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj9.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj10.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj11.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj12.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj13.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj14.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj15.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj16.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj17.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj18.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj19.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj20.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj21.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj22.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj23.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj24.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj25.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj26.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj27.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj28.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj29.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj30.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj31.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj32.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj33.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj34.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj35.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj36.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj37.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj38.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj39.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj40.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj41.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj42.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj43.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj44.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj45.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj46.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj47.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj48.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj49.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj50.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj51.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj52.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj53.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj54.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj55.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj56.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj57.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj58.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj59.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj60.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj61.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj62.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj63.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj64.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj65.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj66.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj67.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj68.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj69.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj70.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj71.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj72.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj73.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj74.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj75.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj76.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj77.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj78.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj79.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj80.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj81.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj82.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj83.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj84.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj85.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj86.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj87.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj88.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj89.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj90.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj91.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj92.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj93.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj94.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj95.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj96.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj97.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj98.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj99.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	{
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj100.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj101.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj102.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj103.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj104.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj105.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj106.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj107.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj108.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj109.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj110.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj111.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj112.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj113.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj114.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj115.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj116.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj117.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj118.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj119.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj120.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj121.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj122.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj123.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj124.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj125.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj126.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj127.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj128.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj129.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj130.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj131.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj132.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj133.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj134.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj135.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj136.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj137.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj138.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj139.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj140.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj141.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj142.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj143.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj144.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj145.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj146.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj147.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj148.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj149.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj150.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj151.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj152.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj153.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj154.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj155.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj156.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj157.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj158.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj159.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj160.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj161.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj162.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj163.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj164.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj165.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj166.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj167.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj168.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj169.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj170.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj171.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj172.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj173.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj174.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj175.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj176.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj177.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj178.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj179.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj180.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj181.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj182.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj183.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj184.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj185.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj186.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj187.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj188.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj189.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj190.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj191.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj192.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj193.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj194.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj195.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj196.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj197.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj198.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj199.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj200.md",
+      "redirect_url": "/dotnet/core/tools/csproj5",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj1.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj2.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj3.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj4.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj5.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj6.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj7.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj8.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj9.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj10.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj11.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj12.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj13.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj14.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj15.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj16.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj17.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj18.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj19.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj20.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj21.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj22.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj23.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj24.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj25.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj26.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj27.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj28.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj29.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj30.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj31.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj32.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj33.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj34.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj35.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj36.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj37.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj38.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj39.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj40.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj41.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj42.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj43.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj44.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj45.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj46.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj47.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj48.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj49.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj50.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj51.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj52.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj53.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj54.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj55.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj56.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj57.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj58.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj59.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj60.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj61.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj62.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj63.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj64.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj65.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj66.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj67.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj68.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj69.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj70.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj71.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj72.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj73.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj74.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj75.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj76.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj77.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj78.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj79.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj80.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj81.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj82.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj83.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj84.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj85.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj86.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj87.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj88.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj89.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj90.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj91.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj92.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj93.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj94.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj95.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj96.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj97.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj98.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj99.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	{
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj100.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj101.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj102.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj103.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj104.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj105.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj106.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj107.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj108.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj109.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj110.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj111.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj112.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj113.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj114.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj115.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj116.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj117.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj118.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj119.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj120.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj121.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj122.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj123.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj124.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj125.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj126.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj127.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj128.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj129.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj130.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj131.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj132.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj133.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj134.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj135.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj136.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj137.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj138.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj139.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj140.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj141.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj142.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj143.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj144.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj145.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj146.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj147.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj148.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj149.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj150.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj151.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj152.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj153.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj154.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj155.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj156.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj157.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj158.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj159.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj160.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj161.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj162.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj163.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj164.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj165.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj166.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj167.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj168.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj169.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj170.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj171.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj172.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj173.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj174.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj175.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj176.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj177.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj178.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj179.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj180.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj181.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj182.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj183.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj184.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj185.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj186.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj187.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj188.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj189.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj190.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj191.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj192.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj193.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj194.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj195.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj196.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj197.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj198.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj199.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj200.md",
+      "redirect_url": "/dotnet/core/tools/csproj5",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj1.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj2.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj3.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj4.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj5.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj6.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj7.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj8.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj9.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj10.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj11.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj12.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj13.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj14.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj15.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj16.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj17.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj18.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj19.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj20.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj21.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj22.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj23.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj24.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj25.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj26.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj27.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj28.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj29.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj30.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj31.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj32.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj33.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj34.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj35.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj36.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj37.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj38.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj39.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj40.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj41.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj42.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj43.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj44.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj45.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj46.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj47.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj48.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj49.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj50.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj51.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj52.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj53.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj54.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj55.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj56.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj57.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj58.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj59.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj60.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj61.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj62.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj63.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj64.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj65.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj66.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj67.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj68.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj69.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj70.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj71.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj72.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj73.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj74.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj75.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj76.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj77.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj78.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj79.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj80.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj81.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj82.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj83.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj84.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj85.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj86.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj87.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj88.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj89.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj90.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj91.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj92.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj93.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj94.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj95.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj96.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj97.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj98.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj99.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	{
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj100.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj101.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj102.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj103.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj104.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj105.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj106.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj107.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj108.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj109.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj110.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj111.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj112.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj113.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj114.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj115.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj116.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj117.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj118.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj119.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj120.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj121.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj122.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj123.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj124.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj125.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj126.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj127.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj128.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj129.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj130.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj131.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj132.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj133.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj134.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj135.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj136.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj137.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj138.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj139.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj140.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj141.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj142.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj143.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj144.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj145.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj146.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj147.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj148.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj149.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj150.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj151.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj152.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj153.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj154.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj155.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj156.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj157.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj158.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj159.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj160.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj161.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj162.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj163.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj164.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj165.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj166.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj167.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj168.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj169.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj170.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj171.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj172.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj173.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj174.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+	   {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj175.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj176.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj177.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj178.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj179.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj180.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj181.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj182.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj183.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj184.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj185.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj186.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj187.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj188.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj189.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj190.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj191.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj192.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj193.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj194.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+        {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj195.md",
+      "redirect_url": "/dotnet/core/tools/csproj",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj196.md",
+      "redirect_url": "/dotnet/core/tools/csproj1",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj197.md",
+      "redirect_url": "/dotnet/core/tools/csproj2",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj198.md",
+      "redirect_url": "/dotnet/core/tools/csproj3",
+      "redirect_document_id": true
+    },   
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj199.md",
+      "redirect_url": "/dotnet/core/tools/csproj4",
+      "redirect_document_id": true
+    }, 
+    {
+      "source_path": "E2E_DocsBranch_Dynamic/core/preview3/tools/csproj200.md",
+      "redirect_url": "/dotnet/core/tools/csproj5",
+      "redirect_document_id": true
+    }   	
   ]
 }
