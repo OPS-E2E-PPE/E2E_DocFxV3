@@ -24,7 +24,6 @@ If you don't have an Azure subscription, create a [free](https://azure.microsoft
 
 The template used in this quickstart is from [Azure Quickstart Templates](https://azure.microsoft.com/resources/templates/201-blockchain-asaservice/).
 
-:::code language="json" source="~/quickstart-templates/201-blockchain-asaservice/azuredeploy.json":::
 
 Azure resources defined in the template:
 
