@@ -11,7 +11,6 @@ ms.reviewer: caleteet
 
 In this quickstart, you install and use the Azure Blockchain Development Kit for Ethereum Visual Studio Code (VS Code) extension to attach to a consortium on Azure Blockchain Service. The Azure Blockchain Development Kit simplifies how you create, connect, build, and deploy smart contracts on Ethereum blockchain ledgers.
 
-[!INCLUDE [quickstarts-free-trial-note](../../../includes/quickstarts-free-trial-note.md)]
 
 ## Prerequisites
 
@@ -40,11 +39,9 @@ From the VS Code command palette, choose **Azure Blockchain: Show Welcome Page**
 
 Azure Blockchain Development Kit runs a validation script that takes about a minute to complete. You can view the output by selecting **Terminal > New Terminal**. In the terminal menu bar, select the **Output** tab and **Azure Blockchain** in the dropdown. Successful validation looks like the following image:
 
-![Valid development environment](./media/connect-vscode/valid-environment.png)
 
  If you are missing a required tool, a new tab named **Azure Blockchain Development Kit - Preview** lists the required tools with download links.
 
-![Dev kit required apps](./media/connect-vscode/required-apps.png)
 
 Install any missing prerequisites before continuing with the quickstart.
 
@@ -57,8 +54,6 @@ If you don't have access to an Azure Blockchain Service consortium member, compl
 1. In the VS Code explorer pane, expand the **Azure Blockchain** extension.
 1. Select **Connect to network**.
 
-   ![Connect to network](./media/connect-vscode/connect-consortium.png)
-
     If prompted for Azure authentication, follow the prompts to authenticate using a browser.
 1. Choose **Azure Blockchain Service** in the command palette dropdown.
 1. Choose the subscription and resource group associated with your Azure Blockchain Service consortium member.
@@ -66,7 +61,6 @@ If you don't have access to an Azure Blockchain Service consortium member, compl
 
 The consortium and blockchain members are listed in the VS Code explorer side bar.
 
-![Consortium displayed in explorer](./media/connect-vscode/consortium-node.png)
 
 ## Next steps
 

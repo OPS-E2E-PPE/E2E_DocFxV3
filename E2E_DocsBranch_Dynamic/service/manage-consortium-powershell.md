@@ -58,14 +58,11 @@ Find the other values in the Azure portal:
 1. Sign in to the [Azure portal](https://portal.azure.com).
 1. Go to your default Blockchain Service member **Overview** page.
 
-    ![Member overview](./media/manage-consortium-powershell/member-overview.png)
-
     Replace *\<Member account\>* and *\<RootContract address\>* with the values from the portal.
 
 1. For the endpoint address, select **Transaction nodes**, and then select the **default transaction node**. The default node has the same name as the blockchain member.
 1. Select **Connection strings**.
 
-    ![Connection strings](./media/manage-consortium-powershell/connection-strings.png)
 
     Replace *\<Endpoint address\>* with the value from **HTTPS (Access key 1)** or **HTTPS (Access key 2)**.
 

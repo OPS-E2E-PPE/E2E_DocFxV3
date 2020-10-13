@@ -9,7 +9,7 @@ ms.reviewer: caleteet
 
 # Use the Ethereum Blockchain connector with Azure Logic Apps
 
-Use the [Ethereum Blockchain connector](/connectors/blockchainethereum/) with [Azure Logic Apps](../../logic-apps/index.yml) to perform smart contract actions and respond to smart contract events. This article explains how you might use the Ethereum Blockchain connector to send blockchain information to another service or call a blockchain function. For example, let's say you want to create a REST-based microservice that returns information from a blockchain ledger. By using a logic app, you can accept HTTP requests that query information stored in a blockchain ledger.
+Use the [Ethereum Blockchain connector](/connectors/blockchainethereum/) ) to perform smart contract actions and respond to smart contract events. This article explains how you might use the Ethereum Blockchain connector to send blockchain information to another service or call a blockchain function. For example, let's say you want to create a REST-based microservice that returns information from a blockchain ledger. By using a logic app, you can accept HTTP requests that query information stored in a blockchain ledger.
 
 ## Prerequisites
 
@@ -23,7 +23,6 @@ Azure Logic Apps helps you schedule and automate business processes and workflow
 1. In the [Azure portal](https://portal.azure.com), select **Create a resource** > **Integration** > **Logic App**.
 1. Under **Create logic app**, provide details on where to create your logic app. After you're done, select **Create**.
 
-    For more information on creating logic apps, see [Create automated workflows with Azure Logic Apps](../../logic-apps/quickstart-create-first-logic-app-workflow.md).
 
 1. After Azure deploys your app, select your logic app resource.
 1. In the Logic Apps Designer, under **Templates**, select **Blank Logic App**.
@@ -47,7 +46,6 @@ Use Ethereum Blockchain event triggers when you want a logic app to run after a 
 1. Change or [create an API connection](#create-an-api-connection) to Azure Blockchain Service.
 1. Enter the details about the smart contract that you want to check for events.
 
-    ![Logic Apps Designer with Event trigger properties](./media/ethereum-logic-app/event-properties.png)
 
     | Property | Description |
     |----------|-------------|
@@ -70,7 +68,6 @@ Connector actions require a trigger. You can use an Ethereum Blockchain connecto
 1. Select the Ethereum Blockchain connector.
 1. From the **Actions** tab, select one of the available actions.
 
-    ![Logic Apps Designer with Actions properties](./media/ethereum-logic-app/action-properties.png)
 
 1. Change or [create an API connection](#create-an-api-connection) to Azure Blockchain Service.
 1. Depending on the action you chose, provide the following details about your smart contract function.
@@ -102,7 +99,6 @@ For example, the following steps generate a REST-based microservice logic app ba
 1. In the Visual Studio Code explorer sidebar, expand the **contracts** folder in your solution.
 1. Right-click **HelloBlockchain.sol** and select **Generate Microservices for Smart Contracts** from the menu.
 
-    ![Visual Studio Code pane with the Generate Microservices for Smart Contracts selection](./media/ethereum-logic-app/generate-logic-app.png)
 
 1. In the command palette, select **Logic App**.
 1. Enter the **contract address**. For more information, see [Get the contract address](#get-the-contract-address).
@@ -113,21 +109,17 @@ For example, the following steps generate a REST-based microservice logic app ba
 1. View the **generatedLogicApp/HelloBlockchain** directory. There's a logic app JSON file for each smart contract function, event, and property.
 1. Open the **generatedLogicApp/HelloBlockchain/Service/property.RequestMessage.logicapp.json** file and copy the contents.
 
-    ![JSON file with code to copy](./media/ethereum-logic-app/requestmessage.png)
 
 1. In your logic app, select **Logic app code view**. Replace the existing JSON with the generated logic app JSON.
 
-    ![Logic app code view with new replaced app code](./media/ethereum-logic-app/code-view.png)
 
 1. Select **Designer** to switch to the designer view.
 1. The logic app includes the basic steps for the scenario. However, you need to update the configuration details for the Ethereum Blockchain connector.
 1. Select the **Connections** step and change or [create an API connection](#create-an-api-connection) to Azure Blockchain Service.
 
-    ![Designer view with the Connections selection](./media/ethereum-logic-app/microservice-logic-app.png)
 
 1. You can now use your logic app. To test the REST-based microservice, issue an HTTP POST request to the logic app request URL. Copy the **HTTP POST URL** contents from the **When an HTTP request is received** step.
 
-    ![Logic Apps Designer pane with the HTTP POST URL](./media/ethereum-logic-app/post-url.png)
 
 1. Use cURL to create an HTTP POST request. Replace the placeholder text *\<HTTP POST URL\>* with the URL from the previous step.
 
@@ -137,7 +129,6 @@ For example, the following steps generate a REST-based microservice logic app ba
 
     The cURL command returns a response from the logic app. In this case, the response is the output from the **RequestMessage** smart contract function.
 
-    ![Code output from the RequestMessage smart contract function](./media/ethereum-logic-app/curl.png)
 
 For more information about using the development kit, see the [Azure Blockchain Development Kit for Ethereum wiki page](https://github.com/Microsoft/vscode-azure-blockchain-ethereum/wiki).
 
@@ -167,7 +158,6 @@ The Azure Blockchain Service RPC endpoint address is required to connect to a bl
 1. Under **Azure Blockchain Service** in Visual Studio Code, right-click the consortium.
 1. Select **Copy RPC Endpoint Address**.
 
-    ![Visual Studio Code pane showing the consortium with the Copy RPC Endpoint Address selection](./media/ethereum-logic-app/devkit-rpc.png)
 
     The RPC endpoint is copied to your clipboard.
 
@@ -176,12 +166,10 @@ The Azure Blockchain Service RPC endpoint address is required to connect to a bl
 1. Sign in to the [Azure portal](https://portal.azure.com).
 1. Go to your Azure Blockchain Service member. Select **Transaction nodes** and the default transaction node link.
 
-    ![Transaction nodes page with the (default node) selection](./media/ethereum-logic-app/transaction-nodes.png)
 
 1. Select **Connection strings** > **Access keys**.
 1. Copy the endpoint address from **HTTPS (Access key 1)** or **HTTPS (Access key 2)**.
 
-    ![Azure portal with the connection string access keys](./media/ethereum-logic-app/connection-string.png)
 
     The RPC endpoint is the HTTPS URL, which includes the address and access key of your Azure Blockchain Service member transaction node.
 
@@ -193,7 +181,6 @@ You can use the Ethereum account's private key to authenticate when sending a tr
 1. Select **Azure Blockchain: Retrieve private key**.
 1. Select the mnemonic you saved when connecting to the consortium member.
 
-    ![Command palette with an option to select the mnemonic](./media/ethereum-logic-app/private-key.png)
 
     The private key is copied to your clipboard.
 
@@ -204,7 +191,6 @@ You can use the member account and password to authenticate when you send a tran
 1. In the Azure portal, go to your Azure Blockchain Service overview page.
 1. Copy the **Member account** address.
 
-    ![Overview page with the member account address](./media/ethereum-logic-app/member-account.png)
 
 For more information on the account address and password, see [Ethereum account](consortium.md#ethereum-account).
 
@@ -220,7 +206,6 @@ If you used the development kit or Truffle to build your smart contract, you can
 1. Right-click the contract metadata JSON file. The file name is the smart contract name followed by the **.json** extension.
 1. Select **Copy Contract ABI**.
 
-    ![Visual Studio Code pane with the Copy Contract ABI selection](./media/ethereum-logic-app/abi-devkit.png)
 
     The contract ABI is copied to the clipboard.
 
@@ -230,7 +215,6 @@ If you used the development kit or Truffle to build your smart contract, you can
 1. Find the **abi** section in the JSON file.
 1. Copy the **abi** JSON array.
 
-    ![ABI code in the contract metadata file](./media/ethereum-logic-app/abi-metadata.png)
 
 ## Get the contract bytecode
 
@@ -244,7 +228,6 @@ If you used the development kit or Truffle to build your smart contract, you can
 1. Right-click the contract metadata JSON file. The file name is the smart contract name followed by the **.json** extension.
 1. Select **Copy Contract Bytecode**.
 
-    ![Visual Studio Code pane with the Copy Contract Bytecode selection](./media/ethereum-logic-app/bytecode-devkit.png)
 
     The contract bytecode is copied to the clipboard.
 
@@ -253,8 +236,6 @@ If you used the development kit or Truffle to build your smart contract, you can
 1. Open the contract metadata file contained in the **build/contracts** folder of your Solidity project. The file name is the smart contract name followed by the **.json** extension.
 1. Find the **bytecode** element in the JSON file.
 1. Copy the **bytecode** value.
-
-    ![Visual Studio Code pane with bytecode in the metadata](./media/ethereum-logic-app/bytecode-metadata.png)
 
 **To use the Solidity compiler:**
 
@@ -268,7 +249,6 @@ The contract address is the smart contract destination address on the Ethereum b
 
 Truffle displays the contract address after deployment of the smart contract. Copy the **contract address** from the output.
 
-![Truffle migration output with the contract address in Visual Studio Code](./media/ethereum-logic-app/contract-address-truffle.png)
 
 **To use the contract metadata file:**
 
@@ -277,7 +257,6 @@ Truffle displays the contract address after deployment of the smart contract. Co
 1. Private networks are identified by an integer network ID. Find the address value within the network section.
 1. Copy the **address** value.
 
-![Metadata with the address value in Visual Studio Code](./media/ethereum-logic-app/contract-address-metadata.png)
 
 ## Next steps
 

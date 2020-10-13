@@ -10,7 +10,6 @@ ms.reviewer: chroyal
 
 In this tutorial, you use Blockchain Data Manager for Azure Blockchain Service to record blockchain transaction data in Azure Cosmos DB. Blockchain Data Manager captures, transforms, and delivers blockchain ledger data to Azure Event Grid Topics. From Azure Event Grid, you use an Azure Logic App connector to create documents in an Azure Cosmos DB database. When finished with tutorial, you can explore blockchain transaction data in Azure Cosmos DB Data Explorer.
 
-[![Blockchain transaction detail](./media/data-manager-cosmosdb/raw-msg.png)](./media/data-manager-cosmosdb/raw-msg.png#lightbox)
 
 In this tutorial, you:
 
@@ -22,15 +21,12 @@ In this tutorial, you:
 > * Send a transaction to a blockchain ledger
 > * View the decoded transaction data in Azure Cosmos DB
 
-[!INCLUDE [quickstarts-free-trial-note](../../../includes/quickstarts-free-trial-note.md)]
 
 ## Prerequisites
 
 * Complete [Quickstart: Create a blockchain member using the Azure portal](create-member.md) or [Quickstart: Create an Azure Blockchain Service blockchain member using Azure CLI](create-member-cli.md)
 * Complete [Quickstart: Use Visual Studio Code to connect to an Azure Blockchain Service consortium network](connect-vscode.md). The quickstart guides you though installing [Azure Blockchain Development Kit for Ethereum](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain) and setting up your blockchain development environment.
 * Complete [Tutorial: Use Visual Studio Code to create, build, and deploy smart contracts](send-transaction.md). The tutorial walks through creating a sample smart contract.
-* Create an [Event Grid Topic](../../event-grid/custom-event-quickstart-portal.md#create-a-custom-topic)
-* Learn about [Event handlers in Azure Event Grid](../../event-grid/event-handlers.md)
 
 ## Create instance
 
@@ -39,8 +35,6 @@ A Blockchain Data Manager instance connects and monitors an Azure Blockchain Ser
 1. Sign in to the [Azure portal](https://portal.azure.com).
 1. Go to the Azure Blockchain Service member you created in the prerequisite [Quickstart: Create a blockchain member using the Azure portal](create-member.md). Select **Blockchain Data Manager**.
 1. Select **Add**.
-
-    ![Add Blockchain Data Manager](./media/data-manager-cosmosdb/add-instance.png)
 
     Enter the following details:
 
@@ -67,7 +61,6 @@ The contract ABI defines the smart contract interfaces. It describes how to inte
 1. Right-click the contract metadata JSON file. The file name is the smart contract name followed by the **.json** extension.
 1. Select **Copy Contract ABI**.
 
-    ![Visual Studio Code pane with the Copy Contract ABI selection](./media/data-manager-cosmosdb/abi-devkit.png)
 
     The contract ABI is copied to the clipboard.
 
@@ -79,7 +72,6 @@ Blockchain Data Manager requires the deployed bytecode for the smart contract. T
 1. Right-click the contract metadata JSON file. The file name is the smart contract name followed by the **.json** extension.
 1. Select **Copy Transaction Bytecode**.
 
-    ![Visual Studio Code pane with the Copy Transaction Bytecode selection](./media/data-manager-cosmosdb/bytecode-devkit.png)
 
     The bytecode is copied to the clipboard.
 
@@ -87,7 +79,6 @@ Blockchain Data Manager requires the deployed bytecode for the smart contract. T
 
 The following example shows *abi.json* and *bytecode.json* files open in the VS Code editor. Your files should look similar.
 
-![Example of abi.json and bytecode.json files](./media/data-manager-cosmosdb/contract-files.png)
 
 ### Create contract ABI and bytecode URL
 
@@ -95,13 +86,11 @@ Blockchain Data Manager requires the contract ABI and bytecode files to be acces
 
 #### Create storage account
 
-[!INCLUDE [storage-create-account-portal-include](../../../includes/storage-create-account-portal-include.md)]
 
 #### Upload contract files
 
 1. Create a new container for the storage account. Select **Containers > Container**.
 
-    ![Create a storage account container](./media/data-manager-cosmosdb/create-container.png)
 
     | Setting | Description |
     |---------|-------------|
@@ -112,7 +101,6 @@ Blockchain Data Manager requires the contract ABI and bytecode files to be acces
 1. Select the container then select **Upload**.
 1. Choose both JSON files you created in the [Get Contract ABI and bytecode](#get-contract-abi-and-bytecode) section.
 
-    ![Upload blob](./media/data-manager-cosmosdb/upload-blobs.png)
 
     Select **Upload**.
 
@@ -124,7 +112,6 @@ For each blob, generate a shared access signature.
 1. Select **Generate SAS**
 1. Set desired access signature expiration then select **Generate blob SAS token and URL**.
 
-    ![Generate SAS token](./media/data-manager-cosmosdb/generate-sas.png)
 
 1. Copy the **Blob SAS URL** and save it for the next section.
 1. Repeat the [Generate URL](#generate-url) steps for the bytecode JSON blob.
@@ -135,7 +122,6 @@ For each blob, generate a shared access signature.
 1. Select **Blockchain applications**.
 1. Select **Add**.
 
-    ![Add a blockchain application](./media/data-manager-cosmosdb/add-application.png)
 
     Enter the name of the blockchain application and the smart contract ABI and bytecode URLs.
 
@@ -149,13 +135,10 @@ For each blob, generate a shared access signature.
 
     Once the application is created, the application appears in the list of blockchain applications.
 
-    ![Blockchain application list](./media/data-manager-cosmosdb/artifact-list.png)
-
 You can delete the Azure Storage account or use it to configure more blockchain applications. If you wish to delete the Azure Storage account, you can delete the resource group. Deleting the resource group also deletes the associated storage account, and any other resources associated with the resource group.
 
 ## Create Azure Cosmos DB
 
-[!INCLUDE [cosmos-db-create-storage-account](../../../includes/cosmos-db-create-dbaccount.md)]
 
 ### Add a database and container
 
@@ -163,8 +146,6 @@ You can use the Data Explorer in the Azure portal to create a database and conta
 
 1. Select **Data Explorer** from the left navigation on your Azure Cosmos DB account page, and then select **New Container**.
 1. In the **Add container** pane, enter the settings for the new container.
-
-    ![Add container settings](./media/data-manager-cosmosdb/add-container.png)
 
     | Setting | Description
     |---------|-------------|
@@ -182,7 +163,6 @@ Azure Logic Apps helps you schedule and automate business processes and workflow
 1. In the [Azure portal](https://portal.azure.com), select **Create a resource** > **Integration** > **Logic App**.
 1. Provide details on where to create your logic app. After you're done, select **Create**.
 
-    For more information on creating logic apps, see [Create automated workflows with Azure Logic Apps](../../logic-apps/quickstart-create-first-logic-app-workflow.md).
 
 1. After Azure deploys your app, select your logic app resource.
 1. In the Logic Apps Designer, under **Templates**, select **Blank Logic App**.
@@ -195,7 +175,6 @@ Every logic app must start with a trigger, which fires when a specific event hap
 1. From the **Triggers** tab, select **When a resource event occurs**.
 1. Create an API connection to your Event Grid Topic.
 
-    ![Event grid trigger settings](./media/data-manager-cosmosdb/event-grid-trigger.png)
 
     | Setting | Description
     |---------|-------------|
@@ -212,7 +191,6 @@ Add an action to create a document in Cosmos DB for each transaction. Use the tr
 1. Choose **Azure Cosmos DB > Actions > Create or update document**.
 1. Create an API connection to your Cosmos DB database.
 
-    ![Cosmos DB connection settings](./media/data-manager-cosmosdb/cosmosdb-connection.png)
 
     | Setting | Description
     |---------|-------------|
@@ -232,7 +210,6 @@ Add an action to create a document in Cosmos DB for each transaction. Use the tr
 1. Select **Add new parameter** and choose **Partition key value**.
 1. Set the **Partition key value** to `"@{triggerBody()['data']['MessageType']}"`. The value must be surrounded by double quotes.
 
-    ![Logic Apps Designer with Cosmos DB settings](./media/data-manager-cosmosdb/create-action.png)
 
     The value sets the partition key to the transaction message type.
 
@@ -246,11 +223,9 @@ Next, send a transaction to the blockchain ledger to test what you created. Use 
 
 1. Use the Azure Blockchain Development Kit smart contract interaction page to call the **SendRequest** function. Right-click **HelloBlockchain.sol** and choose **Show Smart Contract Interaction Page** from the menu.
 
-    ![Choose Show Smart Contract Interaction Page from menu](./media/data-manager-cosmosdb/contract-interaction.png)
 
 1. Choose **SendRequest** contract action and enter **Hello, Blockchain!** for the **requestMessage** parameter. Select **Execute** to call the **SendRequest** function via a transaction.
 
-    ![Execute SendRequest action](./media/data-manager-cosmosdb/sendrequest-action.png)
 
 The SendRequest function sets the **RequestMessage** and **State** fields. The current state for **RequestMessage** is the argument you passed **Hello, Blockchain**. The **State** field value remains **Request**.
 
@@ -260,13 +235,10 @@ Now that you have connected your Blockchain Data Manager to Azure Cosmos DB, you
 
 1. Go to the Cosmos DB Data Explorer view. For example, **cosmosdb-blockchain > Data Explorer > blockchain-data > Messages > Items**.
 
-    ![Cosmos DB Data Explorer](./media/data-manager-cosmosdb/data-explorer.png)
-
     Data Explorer lists the blockchain data messages that were created in the Cosmos DB database.
 
 1. Browse through the messages by selecting item ID and find the message with the matching transaction hash.
 
-    [![Blockchain transaction detail](./media/data-manager-cosmosdb/raw-msg.png)](./media/data-manager-cosmosdb/raw-msg.png#lightbox)
 
     The raw transaction message contains detail about the transaction. However, the property information is encrypted.
 
@@ -274,7 +246,6 @@ Now that you have connected your Blockchain Data Manager to Azure Cosmos DB, you
 
 1. Find the **ContractProperties** message for the transaction. It should be the next message in the list.
 
-    [![Blockchain transaction detail](./media/data-manager-cosmosdb/properties-msg.png)](./media/data-manager-cosmosdb/properties-msg.png#lightbox)
 
     The **DecodedProperties** array contains the properties of the transaction.
 

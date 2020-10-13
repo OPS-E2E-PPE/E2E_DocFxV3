@@ -19,7 +19,6 @@ You use Azure Blockchain Development Kit for Ethereum to:
 > * Deploy a smart contract
 > * Execute a smart contract function via a transaction
 
-[!INCLUDE [quickstarts-free-trial-note](../../../includes/quickstarts-free-trial-note.md)]
 
 ## Prerequisites
 
@@ -52,7 +51,6 @@ The Azure Blockchain Development Kit creates and initializes a new Solidity proj
 
 The project structure looks like the following example:
 
-   ![Solidity project](./media/send-transaction/solidity-project.png)
 
 ## Build a smart contract
 
@@ -61,11 +59,9 @@ Smart contracts are located in the project's **contracts** directory. You compil
 1. In the VS Code explorer sidebar, expand the **contracts** folder in your project.
 1. Right-click **HelloBlockchain.sol** and choose **Build Contracts** from the menu.
 
-    ![Choose Build contracts menu ](./media/send-transaction/build-contracts.png)
 
 Azure Blockchain Development Kit uses Truffle to compile the smart contracts.
 
-![Truffle compiler output](./media/send-transaction/compile-output.png)
 
 ## Deploy a smart contract
 
@@ -77,7 +73,6 @@ Truffle uses migration scripts to deploy your contracts to an Ethereum network. 
 
 Azure Blockchain Development Kit uses Truffle to execute the migration script to deploy the contracts to the blockchain.
 
-![Successfully deployed contract](./media/send-transaction/deploy-contract.png)
 
 ## Call a contract function
 
@@ -85,19 +80,14 @@ The **HelloBlockchain** contract's **SendRequest** function changes the **Reques
 
 1. To interact with your smart contract, right-click **HelloBlockchain.sol** and choose **Show Smart Contract Interaction Page** from the menu.
 
-    ![Choose Show Smart Contract Interaction Page from menu](./media/send-transaction/contract-interaction.png)
 
 1. The interaction page allows you to choose a deployed contract version, call functions, view current state, and view metadata.
 
-    ![Example Smart Contract Interaction Page](./media/send-transaction/interaction-page.png)
 
 1. To call smart contract function, select the contract action and pass your arguments. Choose **SendRequest** contract action and enter **Hello, Blockchain!** for the **requestMessage** parameter. Select **Execute** to call the **SendRequest** function via a transaction.
 
-    ![Execute SendRequest action](./media/send-transaction/sendrequest-action.png)
 
 Once the transaction is processed, the interaction section reflects the state changes.
-
-![Contract state changes](./media/send-transaction/contract-state.png)
 
 The SendRequest function sets the **RequestMessage** and **State** fields. The current state for **RequestMessage** is the argument you passed **Hello, Blockchain**. The **State** field value remains **Request**.
 
