@@ -11,8 +11,6 @@ ms.reviewer: maheshna
 
 In this quickstart, you use the Geth client to attach to a Geth instance on an Azure Blockchain Service transaction node. Once attached, you use the Geth console to call an Ethereum JavaScript API.
 
-[!INCLUDE [quickstarts-free-trial-note](../../../includes/quickstarts-free-trial-note.md)]
-
 ## Prerequisites
 
 * Install [Geth](https://github.com/ethereum/go-ethereum/wiki/geth)
@@ -25,12 +23,9 @@ You can get the Geth connection string for an Azure Blockchain Service transacti
 1. Sign in to the [Azure portal](https://portal.azure.com).
 1. Go to your Azure Blockchain Service member. Select **Transaction nodes** and the default transaction node link.
 
-    ![Select default transaction node](./media/connect-geth/transaction-nodes.png)
 
 1. Select **Connection strings**.
 1. Copy the connection string from **HTTPS (Access key 1)**. You need the string for the next section.
-
-    ![Connection string](./media/connect-geth/connection-string.png)
 
 ## Connect to Geth
 
@@ -51,7 +46,6 @@ You can get the Geth connection string for an Azure Blockchain Service transacti
 
     In this example, the chainId is 661.
 
-    ![Azure Blockchain Service option](./media/connect-geth/geth-attach.png)
 
 1. To disconnect from the console, type `exit`.
 

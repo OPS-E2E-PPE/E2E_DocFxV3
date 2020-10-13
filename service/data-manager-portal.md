@@ -31,8 +31,6 @@ An outbound connection sends blockchain data to Azure Event Grid. You configure 
 1. Go to the Azure Blockchain Service member you want to connect to Blockchain Data Manager. Select **Blockchain Data Manager**.
 1. Select **Add**.
 
-    ![Add Blockchain Data Manager](./media/data-manager-portal/add-instance.png)
-
     Enter the following details:
 
     Setting | Description
@@ -48,7 +46,6 @@ An outbound connection sends blockchain data to Azure Event Grid. You configure 
 
     The new instance appears in the list of Blockchain Data Manager instances for the Azure Blockchain Service member.
 
-    ![List of Blockchain Data Member instances](./media/data-manager-portal/instance-list.png)
 
 ## Add blockchain application
 
@@ -67,7 +64,6 @@ The contract ABI defines the smart contract interfaces. It describes how to inte
 1. Right-click the contract metadata JSON file. The file name is the smart contract name followed by the **.json** extension.
 1. Select **Copy Contract ABI**.
 
-    ![Visual Studio Code pane with the Copy Contract ABI selection](./media/data-manager-portal/abi-devkit.png)
 
     The contract ABI is copied to the clipboard.
 
@@ -79,7 +75,6 @@ Blockchain Data Manager requires the deployed bytecode for the smart contract. T
 1. Right-click the contract metadata JSON file. The file name is the smart contract name followed by the **.json** extension.
 1. Select **Copy Transaction Bytecode**.
 
-    ![Visual Studio Code pane with the Copy Transaction Bytecode selection](./media/data-manager-portal/bytecode-devkit.png)
 
     The bytecode is copied to the clipboard.
 
@@ -87,7 +82,6 @@ Blockchain Data Manager requires the deployed bytecode for the smart contract. T
 
 The following example shows *abi.json* and *bytecode.json* files open in the VS Code editor. Your files should look similar.
 
-![Example of abi.json and bytecode.json files](./media/data-manager-portal/contract-files.png)
 
 ### Create contract ABI and bytecode URL
 
@@ -95,13 +89,10 @@ Blockchain Data Manager requires the contract ABI and bytecode files to be acces
 
 #### Create storage account
 
-[!INCLUDE [storage-create-account-portal-include](../../../includes/storage-create-account-portal-include.md)]
 
 #### Upload contract files
 
 1. Create a new container for the storage account. Select **Containers > Container**.
-
-    ![Create a storage account container](./media/data-manager-portal/create-container.png)
 
     | Field | Description |
     |-------|-------------|
@@ -112,7 +103,6 @@ Blockchain Data Manager requires the contract ABI and bytecode files to be acces
 1. Select the container then select **Upload**.
 1. Choose both JSON files you created in the [Get Contract ABI and bytecode](#get-contract-abi-and-bytecode) section.
 
-    ![Upload blob](./media/data-manager-portal/upload-blobs.png)
 
     Select **Upload**.
 
@@ -124,7 +114,6 @@ For each blob, generate a shared access signature.
 1. Select **Generate SAS**
 1. Set desired access signature expiration then select **Generate blob SAS token and URL**.
 
-    ![Generate SAS token](./media/data-manager-portal/generate-sas.png)
 
 1. Copy the **Blob SAS URL** and save it for the next section.
 1. Repeat the [Generate URL](#generate-url) steps for the bytecode JSON blob.
@@ -134,8 +123,6 @@ For each blob, generate a shared access signature.
 1. Select your Blockchain Data Manager instance from the instance list.
 1. Select **Blockchain applications**.
 1. Select **Add**.
-
-    ![Add a blockchain application](./media/data-manager-portal/add-application.png)
 
     Enter the name of the blockchain application and the smart contract ABI and bytecode URLs.
 
@@ -149,8 +136,6 @@ For each blob, generate a shared access signature.
 
     Once the application is created, the application appears in the list of blockchain applications.
 
-    ![Blockchain application list](./media/data-manager-portal/artifact-list.png)
-
 You can delete the Azure Storage account or use it to configure more blockchain applications. If you wish to delete the Azure Storage account, you can delete the resource group. Deleting the resource group also deletes the associated storage account, and any other resources associated with the resource group.
 
 ## Stop instance
@@ -158,8 +143,6 @@ You can delete the Azure Storage account or use it to configure more blockchain 
 Stop the Blockchain Manager instance when you want to stop capturing blockchain events and sending data to the outbound connections. When the instance is stopped, no charges are incurred for Blockchain Data Manager. For more information, see [pricing](https://azure.microsoft.com/pricing/details/blockchain-service).
 
 1. Go to **Overview** and select **Stop**.
-
-    ![Stop instance](./media/data-manager-portal/stop-instance.png)
 
 ## Next steps
 

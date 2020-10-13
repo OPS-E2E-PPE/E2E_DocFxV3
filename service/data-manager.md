@@ -14,8 +14,6 @@ In most enterprise blockchain scenarios, a blockchain ledger is one part of a so
 
 Blockchain Data Manager performs three main functions: capture, transform, and deliver.
 
-![Blockchain Data Manager functions](./media/data-manager/functions.png)
-
 ## Capture
 
 Each Blockchain Data Manager instance connects to one Azure Blockchain Service member transaction node. Only users with access to the transaction node can create a connection ensuring proper access control to customer data. A Blockchain Data Manager instance reliably captures all raw block and raw transaction data from the transaction node and can scale to support enterprise workloads.

@@ -15,17 +15,13 @@ Azure Blockchain Service uses several Azure capabilities to keep your data secur
 
 Azure Blockchain Service resources are isolated in a private virtual network. Each transaction and validation node is a virtual machine (VM). VMs in one virtual network cannot communicate directly to VMs in a different virtual network. Isolation ensures communication remains private within the virtual network. For more information on Azure virtual network isolation, see [isolation in the Azure Public Cloud](../../security/fundamentals/isolation-choices.md#networking-isolation).
 
-![VNET diagram](./media/data-security/vnet.png)
-
 ## Encryption
 
-User data is stored in Azure storage. User data is encrypted in motion and at rest for security and confidentiality. For more information, see: [Azure Storage security guide](../../storage/blobs/security-recommendations.md).
 
 ## Authentication
 
 Transactions can be sent to blockchain nodes via an RPC endpoint. Clients communicate with a transaction node using a reverse proxy server that handles user authentication and encrypts data over TLS.
 
-![Authentication diagram](./media/data-security/authentication.png)
 
 There are three modes of authentication for RPC access.
 

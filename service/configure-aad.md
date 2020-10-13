@@ -35,8 +35,6 @@ To grant access permission at the member level.
     | Azure AD group  | `sales@contoso.onmicrosoft.com` |
     | Application ID  | `13925ab1-4161-4534-8d18-812f5ca1ab1e` |
 
-    ![Add role assignment](./media/configure-aad/add-role-assignment.png)
-
 1. Select **Save**.
 
 ### Grant node level access
@@ -89,7 +87,6 @@ connector.exe -remote <myBlockchainEndpoint>  -method aadclient -client-id <myCl
 | client-id | Client ID of the registered application in Azure AD
 | client-secret | Client secret of the registered application in Azure AD
 
-For more information on how to register an application in Azure AD, see [How to: Use the portal to create an Azure AD application and service principal that can access resources](../../active-directory/develop/howto-create-service-principal-portal.md)
 
 ### Connect a mobile device or text browser
 

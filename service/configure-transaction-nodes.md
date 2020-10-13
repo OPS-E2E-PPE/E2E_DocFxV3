@@ -29,8 +29,6 @@ To add a transaction node:
 1. In the Azure portal, navigate to your Azure Blockchain Service member and select **Transaction nodes > Add**.
 1. Complete the settings for the new transaction node.
 
-    ![Add transaction node](./media/configure-transaction-nodes/add-node.png)
-
     | Setting | Description |
     |---------|-------------|
     | Name | Transaction node name. The name is used to create the DNS address for the transaction node endpoint. For example, `newnode-myblockchainmember.blockchain.azure.com`. The node name cannot be changed once it is created. |
@@ -48,7 +46,6 @@ To view a transaction node's endpoint details:
 
 1. In the Azure portal, navigate to one of your Azure Blockchain Service member transaction nodes and select **Overview**.
 
-    ![Endpoints](./media/configure-transaction-nodes/endpoints.png)
 
 Transaction node endpoints are secure and require authentication. You can connect to a transaction endpoint using Azure AD authentication, HTTPS basic authentication, and using an access key over HTTPS or Websocket over TLS.
 
@@ -61,8 +58,6 @@ To grant Azure AD access control to your endpoint:
 1. In the Azure portal, navigate to your Azure Blockchain Service member and select **Transaction nodes > Access control (IAM) > Add > Add role assignment**.
 1. Create a new role assignment for a user, group, or service principal (application roles).
 
-    ![Add IAM role](./media/configure-transaction-nodes/add-role.png)
-
     | Setting | Action |
     |---------|-------------|
     | Role | Select **Owner**, **Contributor**, or **Reader**.
@@ -71,7 +66,6 @@ To grant Azure AD access control to your endpoint:
 
 1. Select **Save** to add the role assignment.
 
-For more information on Azure AD access control, see [Manage access to Azure resources using RBAC and the Azure portal](../../role-based-access-control/role-assignments-portal.md)
 
 For details on how to connect using Azure AD authentication, see [connect to your node using AAD authentication](configure-aad.md).
 
@@ -81,7 +75,6 @@ For HTTPS basic authentication, user name and password credentials are passed in
 
 You can view a transaction node's basic authentication endpoint details in the Azure portal. Navigate to one of your Azure Blockchain Service member transaction nodes and select **Basic Authentication** in settings.
 
-![Basic authentication](./media/configure-transaction-nodes/basic.png)
 
 The user name is the name of your node and cannot be changed.
 
@@ -101,7 +94,6 @@ To view a transaction node's firewall rules, navigate to one of your Azure Block
 
 You can add firewall rules by entering a rule name, starting IP address, and an ending IP address in the **Firewall rules** grid.
 
-![Firewall rules](./media/configure-transaction-nodes/firewall-rules.png)
 
 To enable:
 
@@ -115,7 +107,6 @@ Connection string syntax for your transaction node is provided for basic authent
 
 You can view a transaction node's connection strings and copy endpoint addresses. Navigate to one of your Azure Blockchain Service member transaction nodes and select **Connection strings** in settings.
 
-![Connection strings](./media/configure-transaction-nodes/connection-strings.png)
 
 ## Sample code
 
@@ -125,7 +116,6 @@ You can view a transaction node's sample connection code and copy it to use with
 
 Choose the Web3, Nethereum, Truffle, or Web3j tab to view the code sample you want to use.
 
-![Sample code](./media/configure-transaction-nodes/sample-code.png)
 
 ## Next steps
 
