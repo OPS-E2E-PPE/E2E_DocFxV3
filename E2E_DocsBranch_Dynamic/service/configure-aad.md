@@ -9,6 +9,7 @@ ms.reviewer: janders
 
 # How to configure Azure Active Directory access for Azure Blockchain Service
 
+test pr-only
 In this article, you learn how to grant access and connect to Azure Blockchain Service nodes using Azure Active Directory (Azure AD) user, group, or application IDs.
 
 Azure AD provides cloud-based identity management and allows you to use a single identity across an entire enterprise and access applications in Azure. Azure Blockchain Service is integrated with Azure AD and offers benefits such as ID federation, single sign-on and multi-factor authentication.
