@@ -7,7 +7,7 @@ ms.reviewer: janders
 #Customer intent: As a developer, I want to connect to my blockchain member node so that I can perform actions on a blockchain.
 ---
 
-# Quickstart: Use MetaMask to connect and deploy a smart contract
+# Quickstart: Use MetaMask to connect and deploy an smart contract
 
 In this quickstart you'll use MetaMask to connect to an Azure Blockchain Service network and use Remix to deploy a smart contract. Metamask is a browser extension to manage an Ether wallet and perform smart contract actions.
 
