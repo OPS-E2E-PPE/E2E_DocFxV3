@@ -9,7 +9,7 @@ ms.reviewer: janders
 
 # Azure Blockchain Service security
 
-Azure Blockchain Service uses several Azure capabilities to keep your data secure and available. Data is secured using isolation, encryption, and authentication.
+Azure Blockchain Service uses several Azure capabilities to keep your data secure and available. Data are secured using isolation, encryption, and authentication.
 
 ## Isolation
 
