@@ -18,7 +18,5 @@ ms.author: v-sthong
 [!INCLUDE [notes](../notes.md)]
 [!INCLUDE [notes](../notes.md)]
 [!INCLUDE [notes](../notes.md)]
-[!INCLUDE [notes](../notes.md)]
-[!INCLUDE [notes](../notes.md)]
 ######
 
