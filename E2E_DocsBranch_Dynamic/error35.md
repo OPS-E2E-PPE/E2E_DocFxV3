@@ -19,5 +19,3 @@ ms.prod: .net
 [!INCLUDE [notes](../notes.md)]
 [!INCLUDE [notes](../notes.md)]
 [!INCLUDE [notes](../notes.md)]
-[!INCLUDE [notes](../notes.md)]
-[!INCLUDE [notes](../notes.md)]
