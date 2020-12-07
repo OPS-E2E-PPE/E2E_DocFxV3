@@ -30,7 +30,8 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+        "ms.author" : "opse2epr"},
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
