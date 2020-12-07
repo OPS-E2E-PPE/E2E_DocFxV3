@@ -7,5 +7,5 @@ ms.topic: article
 ms.prod: .net
 ---
 
-# warning count
-[non exist link1](../nonexisted1.md)
+# no ms.author warning
+docs metadata validation test
