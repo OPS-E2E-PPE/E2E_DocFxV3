@@ -31,7 +31,11 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {},
-    "fileMetadata": {},
+    "fileMetadata": {
+        "ms.author": {
+            "**/*.md": "msauthorinfilemetadata"
+      } 
+    },
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
   }
