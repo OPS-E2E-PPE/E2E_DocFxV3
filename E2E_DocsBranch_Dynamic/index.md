@@ -3,7 +3,6 @@ author: luyajun0205
 title: e2etest
 ms.author: ripohane
 ms.topic: article
-ms.prod: .net
 ms.date: 09/12/2020
 ---
 
