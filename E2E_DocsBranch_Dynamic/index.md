@@ -2,7 +2,6 @@
 author: luyajun0205
 title: e2etest
 ms.author: ripohane
-ms.topic: article
 ms.date: 09/12/2020
 ---
 
