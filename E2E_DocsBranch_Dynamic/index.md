@@ -1,6 +1,10 @@
 ---
 author: luyajun0205
 title: e2etest
+ms.author: ripohane
+ms.topic: how-to
+ms.prod: .net
+ms.date: 09/12/2020
 ---
 
 # Welcome to E2E_DocsBranch_Dynamic docFxv3!
