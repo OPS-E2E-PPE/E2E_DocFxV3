@@ -1,7 +1,7 @@
 ---
-title: Welcome to log-code-e2e-test
-author: v-pegao
-ms.author: invalid ms author
+title: "Welcome to log-code-e2e-test"
+author: "v-pegao"
+ms.author: "invalidmsauthor"
 ms.prod: .net
 ms.topic: article
 ms.date: 06/19/2019
