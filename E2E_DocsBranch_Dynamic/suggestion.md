@@ -8,6 +8,4 @@ ms.prod: .net
 ---
 
 # h1
-H1 going here
-## h2
-The end
+# h1-2
