@@ -19,17 +19,7 @@
   ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
-  "branches_to_filter": [
-    "e2e-v3-pr-addcontent",
-    "e2e-v3-pr-updatecontent",
-    "e2e-v3-pr-deletecontent",
-    "e2e-v3-pr-addtoc",
-    "e2e-v3-pr-updatetoc",
-    "e2e-v3-pr-deletetoc",
-    "e2e-v3-pr-addresource",
-    "e2e-v3-pr-updateresource",
-    "e2e-v3-pr-deleteresource"
-  ],
+  "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "contribution_branch_mappings": {},
@@ -41,12 +31,7 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {
-    "buildpdf-e2e": [
-      "Publish",
-      "Pdf"
-    ]
-  },
+  "branch_target_mapping": {},
   "need_generate_pdf_url_template": true,
   "targets": {},
   "docs_build_engine": {
