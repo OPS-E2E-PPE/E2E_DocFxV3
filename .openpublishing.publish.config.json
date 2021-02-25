@@ -1,5 +1,4 @@
 {
-  "need_generate_pdf": true,
   "docsets_to_publish": [
     {
       "docset_name": "E2E_DocFxV3",
@@ -20,9 +19,19 @@
   ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
-  "branches_to_filter": [],
+  "branches_to_filter": [
+    "e2e-v3-pr-addcontent",
+    "e2e-v3-pr-updatecontent",
+    "e2e-v3-pr-deletecontent",
+    "e2e-v3-pr-addtoc",
+    "e2e-v3-pr-updatetoc",
+    "e2e-v3-pr-deletetoc",
+    "e2e-v3-pr-addresource",
+    "e2e-v3-pr-updateresource",
+    "e2e-v3-pr-deleteresource"
+  ],
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": true,
+  "need_preview_pull_request": false,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
@@ -32,11 +41,17 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
+  "branch_target_mapping": {
+    "buildpdf-e2e": [
+      "Publish",
+      "Pdf"
+    ]
+  },
   "need_generate_pdf_url_template": true,
-  "need_generate_intellisense": false,
-  "docs_build_engine":
-   {
-   "name": "docfx_v3"
-   } 
+  "targets": {},
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  },
+  "need_generate_pdf": true,
+  "need_generate_intellisense": false
 }
