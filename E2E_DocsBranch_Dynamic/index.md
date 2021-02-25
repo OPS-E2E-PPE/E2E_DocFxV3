@@ -1,5 +1,5 @@
 ---
-author: invalidAuthor
+author: qwertgythbn
 title: e2etest
 ---
 
