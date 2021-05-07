@@ -47,8 +47,7 @@
       "Pdf"
     ],
     "live": [
-      "Publish",
-      "Intellisense"
+      "Publish"
     ]
   },
   "need_generate_pdf_url_template": false,
