@@ -1,12 +1,13 @@
 {
   "build": {
+    "markdownEngineName": "markdig",
     "content": [
       {
         "files": [
           "**/*.md"
         ],
         "exclude": [
-          "**/obj/**",
+          "**/obj/**", 
           "**/includes/**",
           "token.md",
           "README.md",
@@ -32,6 +33,11 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_DocsBranch_Dynamic"
+    "dest": "E2E_DocsBranch_Dynamic",
+    "customErrors":{
+      "redirection-url-not-found":{
+         "severity":"Off"
+      }
+    }
   }
 }
